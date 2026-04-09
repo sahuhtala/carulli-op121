@@ -1,5 +1,6 @@
-# MuseScore backup folders (MuseScore 4)
+# MuseScore 4 & reaper backup folders 
 .mscbackup/
+Backups
 
 # MuseScore autosave, lock, and backup files (MuseScore 3 & 4)
 *.mscz~
@@ -12,3 +13,7 @@ src/*.pdf
 # OS system files (prevents annoying clutter)
 .DS_Store
 Thumbs.db
+
+
+*.mid
+*.rpp

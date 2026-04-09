@@ -29,7 +29,7 @@
     <minStaffSpread>3.5</minStaffSpread>
     <maxStaffSpread>20</maxStaffSpread>
     <maxAkkoladeDistance>6.5</maxAkkoladeDistance>
-    <maxPageFillSpread>6</maxPageFillSpread>
+    <maxPageFillSpread>6.5</maxPageFillSpread>
     <lyricsPlacement>1</lyricsPlacement>
     <lyricsPosAbove x="0" y="-2"/>
     <lyricsPosBelow x="0" y="3"/>

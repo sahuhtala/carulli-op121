@@ -122,7 +122,7 @@
           <style>frame</style>
           <size>16</size>
           <align>center,center</align>
-          <text><font size="16"></font>14.</text>
+          <text><font size="16"/>14.</text>
           </Text>
         </HBox>
       <Measure len="2/8">
