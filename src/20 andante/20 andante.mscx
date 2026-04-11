@@ -11470,7 +11470,7 @@
             <tempo>0.833333</tempo>
             <eid>QSbsx099wDL_15zQV8RIXEP</eid>
             <musicSymbolSize>20</musicSymbolSize>
-            <offset x="-2.71831" y="-4.32877"/>
+            <offset x="-5.5" y="-4"/>
             <text>Meno mosso</text>
             </Tempo>
           <Dynamic>
@@ -13348,6 +13348,7 @@
       <Measure>
         <eid>/26WHQzi7kO_jHLVfYKRdMH</eid>
         <stretch>1.3</stretch>
+        <vspacerUp>14</vspacerUp>
         <voice>
           <KeySig>
             <eid>ZgjnGWt6+3K_0WPeSG0/QdE</eid>
@@ -13362,7 +13363,7 @@
             <tempo>1.166667</tempo>
             <eid>dfygIUJr/NO_Hdo25sTcENN</eid>
             <musicSymbolSize>20</musicSymbolSize>
-            <offset x="-2.71831" y="-3.42648"/>
+            <offset x="-8" y="-4"/>
             <text>Allegretto</text>
             </Tempo>
           <Dynamic>

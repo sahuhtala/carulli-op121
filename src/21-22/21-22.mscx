@@ -135,7 +135,7 @@
           <style>frame</style>
           <size>16</size>
           <align>center,center</align>
-          <text><font size="16"></font>21.</text>
+          <text><font size="16"/>21.</text>
           </Text>
         </HBox>
       <Measure len="1/8">
@@ -157,7 +157,7 @@
             <tempo>1.166667</tempo>
             <eid>UlX4IaURvXG_7Ea0Mhuh3TC</eid>
             <musicSymbolSize>20</musicSymbolSize>
-            <offset x="-5.62073" y="-4.12628"/>
+            <offset x="-5.5" y="-4"/>
             <text>Andante</text>
             </Tempo>
           <Chord>
@@ -1421,7 +1421,7 @@
           <style>frame</style>
           <size>16</size>
           <align>center,center</align>
-          <text><font size="16"></font>22.</text>
+          <text><font size="16"/>22.</text>
           </Text>
         </HBox>
       <Measure len="1/4">
@@ -1448,7 +1448,7 @@
             <tempo>1.666667</tempo>
             <eid>IeZre2wrjyC_/q8jYPyeY/D</eid>
             <musicSymbolSize>20</musicSymbolSize>
-            <offset x="-5.62073" y="-4.12628"/>
+            <offset x="-8" y="-4"/>
             <text>Mouvement de Valse</text>
             </Tempo>
           <Chord>
