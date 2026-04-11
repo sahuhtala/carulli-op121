@@ -167,7 +167,7 @@
     <barAccidentalDistance>0.65</barAccidentalDistance>
     <noteBarDistance>1.5</noteBarDistance>
     <spacingDensity>1.5</spacingDensity>
-    <measureSpacing>1.35</measureSpacing>
+    <measureSpacing>1.5</measureSpacing>
     <measureRepeatNumberPos>-0.5</measureRepeatNumberPos>
     <mrNumberSeries>0</mrNumberSeries>
     <mrNumberEveryXMeasures>4</mrNumberEveryXMeasures>
@@ -220,7 +220,7 @@
     <hairpinHeight>1.15</hairpinHeight>
     <hairpinContHeight>0.5</hairpinContHeight>
     <hairpinLineWidth>0.12</hairpinLineWidth>
-    <hairpinFontFace>Source Serif 4</hairpinFontFace>
+    <hairpinFontFace>Edwin</hairpinFontFace>
     <hairpinFontSize>10</hairpinFontSize>
     <hairpinLineSpacing>1</hairpinLineSpacing>
     <hairpinFontSpatiumDependent>1</hairpinFontSpatiumDependent>
