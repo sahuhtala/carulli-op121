@@ -12,7 +12,7 @@
     <pageOddBottomMargin>0.393701</pageOddBottomMargin>
     <pageTwosided>0</pageTwosided>
     <staffUpperBorder>7</staffUpperBorder>
-    <staffLowerBorder>7</staffLowerBorder>
+    <staffLowerBorder>4</staffLowerBorder>
     <staffHeaderFooterPadding>1</staffHeaderFooterPadding>
     <staffDistance>6.5</staffDistance>
     <instrumentNameOffset>1</instrumentNameOffset>

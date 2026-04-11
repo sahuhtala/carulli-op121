@@ -15,5 +15,7 @@ src/*.pdf
 Thumbs.db
 
 
+Thumbnails/
+
 *.mid
 *.rpp

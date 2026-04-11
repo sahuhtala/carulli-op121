@@ -8,7 +8,7 @@
     <pageOddLeftMargin>0.590551</pageOddLeftMargin>
     <pageEvenTopMargin>0.590551</pageEvenTopMargin>
     <pageEvenBottomMargin>0.590551</pageEvenBottomMargin>
-    <pageOddTopMargin>0.669291</pageOddTopMargin>
+    <pageOddTopMargin>0.590551</pageOddTopMargin>
     <pageOddBottomMargin>0.393701</pageOddBottomMargin>
     <pageTwosided>0</pageTwosided>
     <staffUpperBorder>7</staffUpperBorder>
