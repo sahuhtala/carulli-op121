@@ -122,7 +122,7 @@
           <style>frame</style>
           <size>16</size>
           <align>center,center</align>
-          <text><font size="16"/>18.</text>
+          <text><font size="16"></font>18.</text>
           </Text>
         </HBox>
       <Measure len="3/8">
@@ -2351,7 +2351,7 @@
               </Note>
             </Chord>
           <BarLine>
-            <subtype>end</subtype>
+            <subtype>double</subtype>
             <eid>WX7tCqBuALN_c2YvJ79PbPI</eid>
             </BarLine>
           </voice>

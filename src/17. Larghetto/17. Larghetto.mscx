@@ -2074,7 +2074,7 @@
             <durationType>eighth</durationType>
             </Rest>
           <BarLine>
-            <subtype>end</subtype>
+            <subtype>double</subtype>
             <eid>myhx2ogKM3G_U4ibGeDaSLE</eid>
             </BarLine>
           </voice>

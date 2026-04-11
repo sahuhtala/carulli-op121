@@ -122,7 +122,7 @@
           <style>frame</style>
           <size>16</size>
           <align>center,center</align>
-          <text><font size="16"/>19.</text>
+          <text><font size="16"></font>19.</text>
           </Text>
         </HBox>
       <Measure len="1/8">
@@ -684,6 +684,9 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>1/8</fractions>
+            </location>
           </voice>
         </Measure>
       <Measure>
@@ -1663,7 +1666,10 @@
           </voice>
         <voice>
           <location>
-            <fractions>3/8</fractions>
+            <fractions>1/4</fractions>
+            </location>
+          <location>
+            <fractions>1/8</fractions>
             </location>
           <Chord>
             <eid>e3Xwu2paO1I_Jfax1Kb3wYM</eid>
@@ -2650,6 +2656,9 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>1/8</fractions>
+            </location>
           </voice>
         </Measure>
       <Measure>
@@ -3168,7 +3177,7 @@
             <size>11</size>
             <italic>1</italic>
             <offset x="0.366022" y="4.59473"/>
-            <text><i><font size="11"/><font face="Source Serif 4"/>dolce</i></text>
+            <text><i><font size="11"></font><font face="Source Serif 4"></font>dolce</i></text>
             </StaffText>
           <Chord>
             <eid>YVtRXbIDJcI_kC0XFZ8fmUF</eid>
@@ -3691,7 +3700,7 @@
             <durationType>eighth</durationType>
             </Rest>
           <BarLine>
-            <subtype>end</subtype>
+            <subtype>double</subtype>
             <eid>ndF7uxLXQQI_ye6VS8r2MBH</eid>
             </BarLine>
           </voice>
