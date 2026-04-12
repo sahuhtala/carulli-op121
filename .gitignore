@@ -1,0 +1,21 @@
+# MuseScore 4 & reaper backup folders 
+.mscbackup/
+Backups
+
+# MuseScore autosave, lock, and backup files (MuseScore 3 & 4)
+*.mscz~
+*.mscx~
+*.autosave
+
+# Ignore generated PDFs in the source folder
+src/*.pdf
+
+# OS system files (prevents annoying clutter)
+.DS_Store
+Thumbs.db
+
+
+Thumbnails/
+
+*.mid
+*.rpp
